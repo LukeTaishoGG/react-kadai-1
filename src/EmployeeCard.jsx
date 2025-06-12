@@ -13,5 +13,4 @@ const EmployeeCard = ({ icon,name,post,email }) => {
     </div>
   );
 };
-
 export default EmployeeCard;
