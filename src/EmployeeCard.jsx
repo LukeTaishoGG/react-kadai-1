@@ -1,7 +1,7 @@
 //子要素Page
 const EmployeeCard = ({ icon,name,post,email }) => {
   return (
-    <div class="name-card">
+    <div className="name-card">
       <div className="employee-card">
         <img src={icon} alt={name} />
           <div className="profile">
